@@ -1,0 +1,386 @@
+{
+  "format": "fitrah.translationDraft.v1",
+  "lang": "en",
+  "status": "DRAFT: machine-assisted translation (Claude), not reviewed. Must not ship until a qualified reviewer approves each item.",
+  "created": "2026-11-13",
+  "conventions": "Allah is kept as Allah; ﷺ marks salla Allahu alayhi wa sallam; (may Allah be pleased with him/her/them) is shortened to (RA); words in [brackets] are added for sense; Quran verses quoted inside a hadith are translated here too and should be checked against an approved translation of the meanings.",
+  "adhkar": {
+    "205": {
+      "text": "O Allah, You are my Lord; there is no god but You. You created me and I am Your servant, and I keep to Your covenant and Your promise as far as I am able. I seek refuge in You from the evil of what I have done. I acknowledge Your favour upon me, and I acknowledge my sin; so forgive me, for none forgives sins but You.",
+      "virtue": "If he says it in the evening and dies that night, he enters Paradise (or: he is among the people of Paradise); and if he says it in the morning and dies that day, the same.",
+      "footnote": "Known as Sayyid al-Istighfar (the master supplication for forgiveness)."
+    },
+    "206": {
+      "text": "Glory be to Allah, and praise be to Him.",
+      "virtue": "No one will come on the Day of Resurrection with anything better than what he brings, except someone who said the same as he did or more."
+    },
+    "207": {
+      "text": "Recite Surat al-Ikhlas (“Say: He is Allah, the One”) and the two Surahs of seeking refuge (al-Falaq and al-Nas).",
+      "virtue": "They will suffice you [by protecting you] from every harm."
+    },
+    "208": {
+      "text": "O Allah, by You we enter the morning and by You we enter the evening; by You we live and by You we die, and to You is the resurrection."
+    },
+    "208e": {
+      "text": "O Allah, by You we enter the evening; by You we live and by You we die, and to You is the resurrection.",
+      "footnote": "In another narration: “and to You is the return” (wa ilayka al-masir)."
+    },
+    "210": {
+      "text": "We have entered the evening, and the dominion belongs to Allah; praise be to Allah. There is no god but Allah alone, without partner; His is the dominion and His is the praise, and He has power over all things. My Lord, I ask You for the good of this night and the good of what comes after it, and I seek refuge in You from the evil of this night and the evil of what comes after it. My Lord, I seek refuge in You from laziness and the misery of old age. I seek refuge in You from a punishment in the Fire and a punishment in the grave.",
+      "footnote": "“The misery of old age” (su’ al-kibar); it is also narrated su’ al-kibr, “the evil of arrogance”. Commentators prefer old age, supported by al-Nasa’i’s wording “su’ al-‘umur” (al-Qadi ‘Iyad, via al-Nawawi)."
+    },
+    "211": {
+      "text": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+      "virtue": "It will not harm you."
+    },
+    "212": {
+      "text": "O Allah, Originator of the heavens and the earth, Knower of the unseen and the seen, Lord of everything and its Sovereign: I bear witness that there is no god but You. I seek refuge in You from the evil of my own self, and from the evil of Satan and his call to associate partners [with You].",
+      "footnote": "Also read “wa sharakihi”: “and from his snares”."
+    },
+    "213": {
+      "text": "In the name of Allah, with whose name nothing on earth or in the heaven can cause harm, and He is the All-Hearing, the All-Knowing.",
+      "virtue": "Nothing will harm him."
+    },
+    "214": {
+      "text": "I am pleased with Allah as Lord, with Islam as religion, and with Muhammad ﷺ as Prophet.",
+      "virtue": "It is binding upon Allah the Exalted to please him.",
+      "footnote": "Binding by His own grace: something Allah has made incumbent upon Himself, not a claim anyone holds against Him. Al-Nawawi: the hadith is established in its origin."
+    },
+    "215": {
+      "text": "O Allah, I have entered the morning calling You to witness, and calling the bearers of Your Throne, Your angels and all Your creation to witness, that You are Allah, there is no god but You, and that Muhammad is Your servant and Your Messenger.",
+      "virtue": "Allah frees a quarter of him from the Fire; whoever says it twice, Allah frees half of him from the Fire; whoever says it three times, Allah frees three quarters of him; and if he says it four times, Allah the Exalted frees him [wholly] from the Fire."
+    },
+    "216": {
+      "text": "O Allah, whatever blessing has come to me this morning is from You alone, without partner. To You be praise, and to You be thanks.",
+      "virtue": "He has fulfilled the thanks due for his day."
+    },
+    "217": {
+      "text": "O Allah, I ask You for well-being in this world and the Hereafter. O Allah, I ask You for pardon and well-being in my religion and my worldly life, my family and my wealth. O Allah, cover my faults and calm my fears. O Allah, guard me from in front of me and from behind me, from my right and from my left, and from above me; and I seek refuge in Your greatness from being taken unawares from beneath me."
+    },
+    "219": {
+      "text": "There is no god but Allah alone, without partner; His is the dominion and His is the praise, and He has power over all things.",
+      "virtue": "It is for him equal to freeing a slave from the descendants of Isma'il (Ishmael), peace be upon him; ten good deeds are written for him, ten bad deeds are wiped away, he is raised ten degrees, and he is guarded from Satan until the evening."
+    },
+    "220": {
+      "text": "We have entered the morning, and the dominion belongs to Allah, Lord of the worlds. O Allah, I ask You for the good of this day: its opening, its victory, its light, its blessing and its guidance; and I seek refuge in You from the evil of what is in it and the evil of what comes after it."
+    },
+    "183a": {
+      "text": "I seek Allah's forgiveness."
+    },
+    "183": {
+      "text": "O Allah, You are al-Salam (Peace), and from You is peace. Blessed are You, O Possessor of Majesty and Honour."
+    },
+    "184": {
+      "text": "There is no god but Allah alone, without partner; His is the dominion and His is the praise, and He has power over all things. O Allah, none can withhold what You give, and none can give what You withhold, and no one's fortune can avail him against You.",
+      "footnote": "Fortune (al-jadd): worldly good fortune: wealth, children, standing or power. None of it saves anyone from Allah; only His grace and mercy do (al-Nawawi, Sharh Sahih Muslim)."
+    },
+    "185": {
+      "text": "There is no god but Allah alone, without partner; His is the dominion and His is the praise, and He has power over all things. There is no might nor power except by Allah. There is no god but Allah, and we worship none but Him. His is the blessing, His is the bounty, and His is the excellent praise. There is no god but Allah, [we are] sincere to Him in religion, even though the disbelievers dislike it."
+    },
+    "186": {
+      "text": "Glory be to Allah; praise be to Allah; Allah is the Greatest."
+    },
+    "188": {
+      "text": "There is no god but Allah alone, without partner; His is the dominion and His is the praise, and He has power over all things.",
+      "virtue": "His sins are forgiven, even if they are like the foam of the sea.",
+      "footnote": "In Sahih Muslim this reward is for completing a hundred with this phrase after saying Subhan Allah, al-hamdu lillah and Allahu akbar thirty-three times each."
+    },
+    "189": {
+      "text": "O Allah, I seek refuge in You from cowardice; I seek refuge in You from being returned to the most feeble old age; I seek refuge in You from the trials of this world; and I seek refuge in You from the punishment of the grave."
+    },
+    "192": {
+      "text": "O Allah, help me to remember You, to thank You, and to worship You well."
+    },
+    "200": {
+      "text": "Whoever says, at the end of the Fajr prayer, while still sitting with his legs folded and before he speaks: There is no god but Allah alone, without partner; His is the dominion and His is the praise; He gives life and causes death, and He has power over all things.",
+      "virtue": "Ten good deeds are written for him, ten bad deeds are wiped away, he is raised ten degrees; that day of his he is in safekeeping from everything disliked and guarded from Satan, and no sin can overtake him that day except associating partners with Allah the Exalted."
+    },
+    "251": {
+      "text": "In Your name, O Allah, I live and I die."
+    },
+    "253": {
+      "text": "In Your name, my Lord, I lay down my side, and by You I raise it. If You hold back my soul, have mercy on it; and if You send it back, protect it with that by which You protect Your righteous servants."
+    },
+    "255": {
+      "text": "[He ﷺ] would join his palms together, blow lightly into them, and recite over them: “Say: He is Allah, the One”, “Say: I seek refuge in the Lord of daybreak”, and “Say: I seek refuge in the Lord of mankind”. Then he would wipe with them as much of his body as he could, beginning with his head and face and the front of his body. He would do this three times."
+    },
+    "256": {
+      "text": "The two verses at the end of Surat al-Baqarah: whoever recites them at night, they will suffice him."
+    },
+    "258": {
+      "text": "When you go to your bed, recite Ayat al-Kursi (the Verse of the Throne).",
+      "virtue": "A guardian from Allah the Exalted will stay with you, and no devil will come near you until morning."
+    },
+    "257": {
+      "text": "O Allah, I have submitted myself to You, entrusted my affair to You, and leaned my back upon You, in hope of You and in fear of You. There is no refuge and no escape from You except to You. I believe in Your Book which You sent down and in Your Prophet whom You sent.",
+      "virtue": "If you die, you die upon the fitrah (the natural faith); and make these the last words you say."
+    },
+    "259": {
+      "text": "O Allah, protect me from Your punishment on the day You resurrect Your servants."
+    },
+    "260": {
+      "text": "O Allah, Lord of the heavens, Lord of the earth and Lord of the Great Throne, our Lord and the Lord of everything, Splitter of the grain and the date-stone, Revealer of the Torah, the Gospel and the Quran: I seek refuge in You from the evil of everything that has evil, whose forelock You hold. You are the First, and there is nothing before You; You are the Last, and there is nothing after You; You are the Manifest, and there is nothing above You; You are the Hidden, and there is nothing beyond You. Settle our debt for us and free us from poverty."
+    },
+    "261": {
+      "text": "O Allah, I seek refuge in Your Noble Face and Your perfect words from the evil of what You hold by the forelock. O Allah, You remove debt and sin. O Allah, Your army is never defeated, Your promise is never broken, and no one's fortune can avail him against You. Glory be to You, O Allah, and praise be to You.",
+      "footnote": "Fortune (al-jadd): worldly good fortune: wealth, children, standing or power. None of it saves anyone from Allah; only His grace and mercy do (al-Nawawi, Sharh Sahih Muslim)."
+    },
+    "262": {
+      "text": "Praise be to Allah who has fed us and given us drink, sufficed us and sheltered us; for how many there are who have no one to suffice them and no one to shelter them."
+    },
+    "263": {
+      "text": "In the name of Allah I lay down my side. O Allah, forgive me my sin, drive away my devil, free me from my pledge, and place me among the highest assembly."
+    },
+    "268": {
+      "text": "Praise be to Allah who has sufficed me and sheltered me, fed me and given me drink; who has been gracious to me and has been generous; who has given to me and given abundantly. Praise be to Allah in every state. O Allah, Lord and Sovereign of everything, God of everything, I seek refuge in You from the Fire."
+    },
+    "273": {
+      "text": "O Allah, You created my soul and You take it in death; its death and its life belong to You. If You keep it alive, protect it; and if You cause it to die, forgive it. O Allah, I ask You for well-being."
+    },
+    "619": {
+      "text": "“Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it. And indeed we, to our Lord, will [surely] return.” [43:13–14] O Allah, we ask You on this journey of ours for righteousness and piety, and for deeds that please You. O Allah, make this journey of ours easy for us and fold up its distance for us. O Allah, You are the Companion on the journey and the One who looks after the family. O Allah, I seek refuge in You from the hardship of travel, from a distressing sight, and from an evil return to wealth and family.",
+      "footnote": "Quran verses in Saheeh International (QuranEnc.com, v1.1.2)."
+    },
+    "613": {
+      "text": "I entrust to Allah your religion, your trust, and the last of your deeds."
+    },
+    "626": {
+      "text": "There is no god but Allah alone, without partner; His is the dominion and His is the praise, and He has power over all things. We are returning, repenting, worshipping, prostrating, and praising our Lord. Allah has fulfilled His promise, given victory to His servant, and He alone defeated the confederates."
+    },
+    "638": {
+      "text": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+      "virtue": "Nothing will harm him until he moves on from that stopping place."
+    },
+    "54": {
+      "text": "In the name of Allah; I put my trust in Allah. O Allah, I seek refuge in You lest I go astray or be led astray, lest I slip or be made to slip, lest I wrong others or be wronged, lest I behave foolishly or be treated foolishly."
+    },
+    "55": {
+      "text": "In the name of Allah; I put my trust in Allah; there is no might nor power except by Allah.",
+      "virtue": "It is said to him: You are guided, you are sufficed, and you are protected; and Satan turns away from him."
+    },
+    "58": {
+      "text": "O Allah, I ask You for the good of entering and the good of going out. In the name of Allah we enter, in the name of Allah we go out, and upon Allah, our Lord, we rely."
+    },
+    "81": {
+      "text": "When one of you enters the mosque, let him send greetings of peace upon the Prophet ﷺ, then say: “O Allah, open for me the gates of Your mercy.” And when he leaves, let him say: “O Allah, I ask You of Your bounty.”"
+    },
+    "74": {
+      "text": "I bear witness that there is no god but Allah alone, without partner, and I bear witness that Muhammad is His servant and His Messenger.",
+      "virtue": "The eight gates of Paradise are opened for him, and he may enter by whichever of them he wishes."
+    },
+    "65": {
+      "text": "O Allah, I seek refuge in You from the male and female devils (al-khubuth wa al-khaba'ith).",
+      "footnote": "Also explained as “from evil and those who do it”."
+    },
+    "71": {
+      "text": "[I ask] Your forgiveness."
+    },
+    "100": {
+      "text": "I bear witness that there is no god but Allah alone, without partner, and that Muhammad is His servant and His Messenger. I am pleased with Allah as Lord, with Muhammad as Messenger, and with Islam as religion.",
+      "virtue": "His sin is forgiven."
+    },
+    "102": {
+      "text": "O Allah, Lord of this perfect call and of the prayer about to be established, grant Muhammad al-Wasilah and al-Fadilah (the highest rank and excellence), and raise him to the praised station that You have promised him.",
+      "virtue": "My intercession becomes due for him on the Day of Resurrection."
+    },
+    "653": {
+      "text": "When one of you eats, let him mention the name of Allah the Exalted at its beginning. If he forgets to mention the name of Allah the Exalted at its beginning, let him say: “In the name of Allah, at its beginning and its end.”"
+    },
+    "676": {
+      "text": "Praise be to Allah, abundant, good and blessed praise. [He is] never in need of provision, never forsaken, and never to be done without, our Lord.",
+      "footnote": "Following al-Khattabi: the pronoun refers to Allah, who needs no one, is never left, and can never be done without. Another reading (Fath al-Bari, 5458) refers it to the food and the favour: “[Your favour is] never cut off, never bid farewell, and never to be done without, our Lord.”"
+    },
+    "680": {
+      "text": "Praise be to Allah who has fed me this and provided it for me, without any might or power on my part.",
+      "virtue": "His past sins are forgiven."
+    },
+    "45": {
+      "text": "O Allah, to You be praise; You have clothed me with it. I ask You for its good and the good of what it was made for, and I seek refuge in You from its evil and the evil of what it was made for."
+    },
+    "344": {
+      "text": "There is no god but Allah, the Great, the Forbearing. There is no god but Allah, Lord of the Great Throne. There is no god but Allah, Lord of the heavens, Lord of the earth, and Lord of the Noble Throne."
+    },
+    "345": {
+      "text": "O Ever-Living, O Sustainer of all, by Your mercy I seek help."
+    },
+    "evening-219": {
+      "text": "There is no god but Allah alone, without partner; His is the dominion and His is the praise, and He has power over all things.",
+      "virtue": "It is for him equal to freeing a slave from the descendants of Isma'il (Ishmael), peace be upon him; ten good deeds are written for him, ten bad deeds are wiped away, he is raised ten degrees, and he is guarded from Satan until the morning."
+    }
+  },
+  "nawawi40": {
+    "1": {
+      "text": "On the authority of the Commander of the Believers, Abu Hafs 'Umar ibn al-Khattab (RA), who said: I heard the Messenger of Allah ﷺ say: “Actions are only by intentions, and every person shall have only what he intended. So whoever's emigration was to Allah and His Messenger, his emigration is to Allah and His Messenger; and whoever's emigration was for a worldly gain he seeks or a woman he would marry, his emigration is to that for which he emigrated.”",
+      "takhrij": "Narrated by the two imams of hadith, Abu 'Abdillah Muhammad ibn Isma'il al-Bukhari and Abu al-Husayn Muslim ibn al-Hajjaj al-Qushayri al-Naysaburi, in their two Sahihs, the most authentic of compiled books."
+    },
+    "2": {
+      "text": "Also on the authority of 'Umar (RA), who said: One day, while we were sitting with the Messenger of Allah ﷺ, there appeared before us a man whose clothes were exceedingly white and whose hair was exceedingly black; no sign of travel could be seen on him, and none of us knew him. He sat down by the Prophet ﷺ, resting his knees against his knees and placing his palms on his thighs, and said: “O Muhammad, tell me about Islam.” The Messenger of Allah ﷺ said: “Islam is that you testify that there is no god but Allah and that Muhammad is the Messenger of Allah, that you establish the prayer, pay the zakah, fast Ramadan, and make the pilgrimage to the House if you are able to find a way to it.” He said: “You have spoken truly.” We were amazed at him asking him and then confirming him. He said: “Then tell me about iman (faith).” He said: “It is that you believe in Allah, His angels, His Books, His Messengers and the Last Day, and that you believe in divine decree, its good and its evil.” He said: “You have spoken truly.” He said: “Then tell me about ihsan (excellence).” He said: “It is that you worship Allah as though you see Him; and though you do not see Him, He sees you.” He said: “Then tell me about the Hour.” He said: “The one asked about it knows no more than the one asking.” He said: “Then tell me about its signs.” He said: “That the slave-woman gives birth to her mistress, and that you see the barefooted, naked, destitute herdsmen of sheep competing in constructing lofty buildings.” Then he left, and I stayed a while. Then he said: “O 'Umar, do you know who the questioner was?” I said: “Allah and His Messenger know best.” He said: “It was Jibril (Gabriel); he came to you to teach you your religion.”",
+      "takhrij": "Narrated by Muslim."
+    },
+    "3": {
+      "text": "On the authority of Abu 'Abd al-Rahman 'Abdullah, the son of 'Umar ibn al-Khattab (RA), who said: I heard the Messenger of Allah ﷺ say: “Islam is built upon five: testifying that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing the prayer, paying the zakah, making the pilgrimage to the House, and fasting Ramadan.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim."
+    },
+    "4": {
+      "text": "On the authority of Abu 'Abd al-Rahman 'Abdullah ibn Mas'ud (RA), who said: The Messenger of Allah ﷺ, the truthful and the believed, told us: “The creation of each of you is gathered in his mother's womb for forty days as a drop (nutfah), then it becomes a clinging clot ('alaqah) for a like period, then a lump of flesh (mudghah) for a like period. Then the angel is sent to him and breathes the soul into him, and is commanded with four matters: to write down his provision, his lifespan, his deeds, and whether he will be wretched or happy. By Allah, other than whom there is no god, one of you may do the deeds of the people of Paradise until there is only an arm's length between him and it, then what has been written overtakes him, and he does the deeds of the people of the Fire and so enters it. And one of you may do the deeds of the people of the Fire until there is only an arm's length between him and it, then what has been written overtakes him, and he does the deeds of the people of Paradise and so enters it.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim."
+    },
+    "5": {
+      "text": "On the authority of the Mother of the Believers, Umm 'Abdillah 'A'ishah (RA), who said: The Messenger of Allah ﷺ said: “Whoever introduces into this affair of ours something that is not part of it, it is rejected.” (Narrated by al-Bukhari and Muslim.) And in a narration of Muslim: “Whoever does a deed that is not in accordance with our affair, it is rejected.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim."
+    },
+    "6": {
+      "text": "On the authority of Abu 'Abdillah al-Nu'man ibn Bashir (RA), who said: I heard the Messenger of Allah ﷺ say: “The lawful is clear and the unlawful is clear, and between them are doubtful matters that many people do not know. So whoever guards against the doubtful matters has kept his religion and his honour blameless; and whoever falls into the doubtful matters falls into the unlawful, like the shepherd who grazes [his flock] around a sanctuary, about to graze within it. Indeed, every king has a sanctuary, and indeed the sanctuary of Allah is what He has made unlawful. Indeed, in the body there is a morsel of flesh: if it is sound, the whole body is sound, and if it is corrupt, the whole body is corrupt. Indeed, it is the heart.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim."
+    },
+    "7": {
+      "text": "On the authority of Abu Ruqayyah Tamim ibn Aws al-Dari (RA): The Prophet ﷺ said: “The religion is sincerity (nasihah).” We said: “To whom?” He said: “To Allah, to His Book, to His Messenger, and to the leaders of the Muslims and their common folk.”",
+      "takhrij": "Narrated by Muslim.",
+      "footnote": "Nasihah: sincere counsel and goodwill, wanting what is good for the one it is directed to."
+    },
+    "8": {
+      "text": "On the authority of Ibn 'Umar (RA): The Messenger of Allah ﷺ said: “I have been commanded to fight the people until they testify that there is no god but Allah and that Muhammad is the Messenger of Allah, establish the prayer and pay the zakah. If they do that, they have protected their blood and their wealth from me, except by the right of Islam, and their reckoning is with Allah the Exalted.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim."
+    },
+    "9": {
+      "text": "On the authority of Abu Hurayrah 'Abd al-Rahman ibn Sakhr (RA), who said: I heard the Messenger of Allah ﷺ say: “What I have forbidden you, avoid; and what I have commanded you, do of it as much as you are able. For what destroyed those before you was only their excessive questioning and their disagreement with their prophets.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim."
+    },
+    "10": {
+      "text": "On the authority of Abu Hurayrah (RA), who said: The Messenger of Allah ﷺ said: “Allah the Exalted is Good and accepts only what is good. Allah has commanded the believers with what He commanded the Messengers, for He the Exalted said: “O messengers, eat from the good foods and work righteousness” [23:51], and He the Exalted said: “O you who have believed, eat from the good [i.e., lawful] things which We have provided for you” [2:172].” Then he mentioned a man who travels far, dishevelled and dusty, stretching his hands to the sky: “O Lord, O Lord”, while his food is unlawful, his clothing is unlawful, and he has been nourished with the unlawful; so how can he be answered?",
+      "takhrij": "Narrated by Muslim.",
+      "footnote": "Quran verses in Saheeh International (QuranEnc.com, v1.1.2)."
+    },
+    "11": {
+      "text": "On the authority of Abu Muhammad al-Hasan ibn 'Ali ibn Abi Talib, the grandson of the Messenger of Allah ﷺ and his beloved (RA), who said: I memorised from the Messenger of Allah ﷺ: “Leave what makes you doubt for what does not make you doubt.”",
+      "takhrij": "Narrated by al-Tirmidhi and al-Nasa'i; al-Tirmidhi said: a hasan sahih hadith."
+    },
+    "12": {
+      "text": "On the authority of Abu Hurayrah (RA), who said: The Messenger of Allah ﷺ said: “Part of the excellence of a person's Islam is his leaving what does not concern him.”",
+      "takhrij": "A hasan hadith, narrated by al-Tirmidhi and others in this way."
+    },
+    "13": {
+      "text": "On the authority of Abu Hamzah Anas ibn Malik (RA), the servant of the Messenger of Allah ﷺ, from the Prophet ﷺ, who said: “None of you [truly] believes until he loves for his brother what he loves for himself.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim."
+    },
+    "14": {
+      "text": "On the authority of Ibn Mas'ud (RA), who said: The Messenger of Allah ﷺ said: “The blood of a Muslim person is not lawful except in one of three cases: the married person who commits adultery, a life for a life, and the one who abandons his religion and separates from the community.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim."
+    },
+    "15": {
+      "text": "On the authority of Abu Hurayrah (RA): The Messenger of Allah ﷺ said: “Whoever believes in Allah and the Last Day, let him speak good or remain silent. Whoever believes in Allah and the Last Day, let him honour his neighbour. Whoever believes in Allah and the Last Day, let him honour his guest.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim."
+    },
+    "16": {
+      "text": "On the authority of Abu Hurayrah (RA): A man said to the Prophet ﷺ: “Advise me.” He said: “Do not become angry.” The man repeated [his request] several times, and he said: “Do not become angry.”",
+      "takhrij": "Narrated by al-Bukhari."
+    },
+    "17": {
+      "text": "On the authority of Abu Ya'la Shaddad ibn Aws (RA), from the Messenger of Allah ﷺ, who said: “Allah has prescribed excellence (ihsan) in everything. So when you kill, kill well; and when you slaughter, slaughter well. Let each of you sharpen his blade and let him spare suffering to the animal he slaughters.”",
+      "takhrij": "Narrated by Muslim."
+    },
+    "18": {
+      "text": "On the authority of Abu Dharr Jundub ibn Junadah and Abu 'Abd al-Rahman Mu'adh ibn Jabal (RA), from the Messenger of Allah ﷺ, who said: “Fear Allah wherever you are, follow a bad deed with a good deed and it will wipe it out, and treat people with good character.”",
+      "takhrij": "Narrated by al-Tirmidhi, who said: a hasan hadith; in some copies: hasan sahih."
+    },
+    "19": {
+      "text": "On the authority of Abu al-'Abbas 'Abdullah ibn 'Abbas (RA), who said: I was behind the Prophet ﷺ one day, and he said: “Young man, I will teach you some words: Be mindful of Allah, and He will protect you. Be mindful of Allah, and you will find Him before you. When you ask, ask of Allah; and when you seek help, seek help from Allah. Know that if the whole nation gathered together to benefit you with something, they would not benefit you except with something Allah had already written for you; and if they gathered together to harm you with something, they would not harm you except with something Allah had already written against you. The pens have been lifted and the pages have dried.” (Narrated by al-Tirmidhi, who said: a hasan sahih hadith.) In a narration other than al-Tirmidhi's: “Be mindful of Allah, and you will find Him in front of you. Know Allah in prosperity, and He will know you in hardship. Know that what missed you was never going to befall you, and what befell you was never going to miss you. Know that victory comes with patience, relief comes with distress, and with hardship comes ease.”",
+      "takhrij": "Narrated by al-Tirmidhi, who said: a hasan sahih hadith."
+    },
+    "20": {
+      "text": "On the authority of Abu Mas'ud 'Uqbah ibn 'Amr al-Ansari al-Badri (RA), who said: The Messenger of Allah ﷺ said: “Among the words people have received from the earliest prophecy is: If you feel no shame, then do as you wish.”",
+      "takhrij": "Narrated by al-Bukhari."
+    },
+    "21": {
+      "text": "On the authority of Abu 'Amr, or it is said Abu 'Amrah, Sufyan ibn 'Abdillah (RA), who said: I said: “O Messenger of Allah, tell me something about Islam that I will not have to ask anyone but you about.” He said: “Say: I believe in Allah, and then be steadfast.”",
+      "takhrij": "Narrated by Muslim."
+    },
+    "22": {
+      "text": "On the authority of Abu 'Abdillah Jabir ibn 'Abdillah al-Ansari (RA): A man asked the Messenger of Allah ﷺ: “Do you think that if I pray the obligatory prayers, fast Ramadan, treat the lawful as lawful and the unlawful as unlawful, and add nothing to that, I will enter Paradise?” He said: “Yes.”",
+      "takhrij": "Narrated by Muslim. “Treating the unlawful as unlawful” means avoiding it; “treating the lawful as lawful” means doing it while believing it is lawful."
+    },
+    "23": {
+      "text": "On the authority of Abu Malik al-Harith ibn 'Asim al-Ash'ari (RA), who said: The Messenger of Allah ﷺ said: “Purification is half of faith. Al-hamdu lillah (praise be to Allah) fills the scale, and Subhan Allah and al-hamdu lillah fill (or: fills) what is between the heavens and the earth. Prayer is light, charity is proof, patience is illumination, and the Quran is a proof for you or against you. Every person goes out in the morning and sells himself: either freeing it or destroying it.”",
+      "takhrij": "Narrated by Muslim."
+    },
+    "24": {
+      "text": "On the authority of Abu Dharr al-Ghifari (RA), from the Prophet ﷺ, in what he narrates from his Lord, Mighty and Majestic, who said: “O My servants, I have forbidden injustice for Myself and have made it forbidden among you, so do not wrong one another. O My servants, all of you are astray except those I have guided, so seek guidance from Me and I will guide you. O My servants, all of you are hungry except those I have fed, so seek food from Me and I will feed you. O My servants, all of you are naked except those I have clothed, so seek clothing from Me and I will clothe you. O My servants, you err by night and by day, and I forgive all sins, so seek forgiveness from Me and I will forgive you. O My servants, you will never attain harming Me so as to harm Me, nor attain benefiting Me so as to benefit Me. O My servants, if the first of you and the last of you, your humans and your jinn, were as pious as the most pious heart of any one man among you, that would add nothing to My dominion. O My servants, if the first of you and the last of you, your humans and your jinn, were as wicked as the most wicked heart of any one man among you, that would take nothing away from My dominion. O My servants, if the first of you and the last of you, your humans and your jinn, stood together on one plain and asked of Me, and I gave each one what he asked, that would diminish what I have no more than a needle diminishes the sea when it is dipped into it. O My servants, it is only your deeds that I record for you and then repay you for in full. So whoever finds good, let him praise Allah; and whoever finds other than that, let him blame no one but himself.”",
+      "takhrij": "Narrated by Muslim."
+    },
+    "25": {
+      "text": "Also on the authority of Abu Dharr (RA): Some of the Companions of the Messenger of Allah ﷺ said to the Prophet ﷺ: “O Messenger of Allah, the wealthy have taken all the rewards: they pray as we pray, they fast as we fast, and they give in charity from their surplus wealth.” He said: “Has Allah not given you what you can give in charity? Every tasbihah (saying Subhan Allah) is a charity, every takbirah (saying Allahu akbar) is a charity, every tahmidah (saying al-hamdu lillah) is a charity, every tahlilah (saying la ilaha illa Allah) is a charity, enjoining good is a charity, forbidding evil is a charity, and in the intimacy of one of you [with his wife] there is a charity.” They said: “O Messenger of Allah, does one of us fulfil his desire and have a reward for it?” He said: “Do you not see that if he were to put it in something unlawful he would bear a sin? So likewise, if he puts it in what is lawful, he has a reward.”",
+      "takhrij": "Narrated by Muslim."
+    },
+    "26": {
+      "text": "On the authority of Abu Hurayrah (RA), who said: The Messenger of Allah ﷺ said: “Upon every joint of the people there is a charity for every day on which the sun rises: to judge justly between two people is a charity; to help a man with his mount, lifting him onto it or lifting his belongings onto it, is a charity; a good word is a charity; every step you take towards the prayer is a charity; and removing something harmful from the road is a charity.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim."
+    },
+    "27": {
+      "text": "On the authority of al-Nawwas ibn Sam'an (RA), from the Prophet ﷺ, who said: “Righteousness is good character, and sin is what wavers in your soul and you dislike people coming to know of it.” (Narrated by Muslim.) And on the authority of Wabisah ibn Ma'bad (RA), who said: I came to the Messenger of Allah ﷺ and he said: “You have come to ask about righteousness?” I said: “Yes.” He said: “Consult your heart. Righteousness is that in which the soul is at ease and the heart is at ease; and sin is what wavers in the soul and moves to and fro in the breast, even if people give you their verdict and keep giving it.”",
+      "takhrij": "A hasan hadith; we have narrated it in the two Musnads of the imams Ahmad ibn Hanbal and al-Darimi with a good chain."
+    },
+    "28": {
+      "text": "On the authority of Abu Najih al-'Irbad ibn Sariyah (RA), who said: The Messenger of Allah ﷺ admonished us with an admonition that made the hearts tremble and the eyes shed tears. We said: “O Messenger of Allah, it is as if this were a farewell admonition, so advise us.” He said: “I advise you to fear Allah, Mighty and Majestic, and to listen and obey, even if a slave is made your leader. Whoever of you lives on will see much disagreement; so hold to my Sunnah and the Sunnah of the rightly guided and well-guided successors (caliphs): bite onto it with your molar teeth. And beware of newly invented matters, for every innovation is misguidance.”",
+      "takhrij": "Narrated by Abu Dawud and al-Tirmidhi, who said: a hasan sahih hadith."
+    },
+    "29": {
+      "text": "On the authority of Mu'adh ibn Jabal (RA), who said: I said: “O Messenger of Allah, tell me of a deed that will admit me into Paradise and keep me away from the Fire.” He said: “You have asked about a great matter, yet it is easy for the one for whom Allah the Exalted makes it easy: worship Allah without associating anything with Him, establish the prayer, pay the zakah, fast Ramadan, and make the pilgrimage to the House.” Then he said: “Shall I not show you the gates of goodness? Fasting is a shield; charity extinguishes sin as water extinguishes fire; and a man's prayer in the depths of the night.” Then he recited: “Their sides part [i.e., they arise] from [their] beds…” until he reached “…as reward for what they used to do” [32:16–17]. Then he said: “Shall I not tell you of the head of the matter, its pillar and its peak?” I said: “Yes, O Messenger of Allah.” He said: “The head of the matter is Islam, its pillar is the prayer, and its peak is jihad.” Then he said: “Shall I not tell you of what holds all of that together?” I said: “Yes, O Messenger of Allah.” So he took hold of his tongue and said: “Restrain this.” I said: “O Prophet of Allah, will we be taken to account for what we say?” He said: “May your mother lose you! Is there anything that topples people into the Fire on their faces (or he said: on their noses) other than the harvests of their tongues?”",
+      "takhrij": "Narrated by al-Tirmidhi, who said: a hasan sahih hadith.",
+      "footnote": "“May your mother lose you” (thakilatka ummuk) is an Arabic expression used to rouse attention, not a real prayer against the listener. Quran verses in Saheeh International (QuranEnc.com, v1.1.2)."
+    },
+    "30": {
+      "text": "On the authority of Abu Tha'labah al-Khushani, Jurthum ibn Nashir (RA), from the Messenger of Allah ﷺ, who said: “Allah the Exalted has laid down obligations, so do not neglect them; He has set limits, so do not overstep them; He has forbidden things, so do not violate them; and He has remained silent about things, out of mercy for you and not out of forgetfulness, so do not go searching into them.”",
+      "takhrij": "A hasan hadith, narrated by al-Daraqutni and others."
+    },
+    "31": {
+      "text": "On the authority of Abu al-'Abbas Sahl ibn Sa'd al-Sa'idi (RA), who said: A man came to the Prophet ﷺ and said: “O Messenger of Allah, guide me to a deed which, if I do it, Allah will love me and people will love me.” He said: “Renounce [attachment to] this world and Allah will love you; and renounce what people possess and people will love you.”",
+      "takhrij": "A hasan hadith, narrated by Ibn Majah and others with good chains."
+    },
+    "32": {
+      "text": "On the authority of Abu Sa'id Sa'd ibn Malik ibn Sinan al-Khudri (RA): The Messenger of Allah ﷺ said: “There is to be no harm and no reciprocating harm.”",
+      "takhrij": "A hasan hadith, narrated with a connected chain by Ibn Majah, al-Daraqutni and others. Malik narrated it in al-Muwatta' as mursal from 'Amr ibn Yahya, from his father, from the Prophet ﷺ, omitting Abu Sa'id; it has routes that strengthen one another."
+    },
+    "33": {
+      "text": "On the authority of Ibn 'Abbas (RA): The Messenger of Allah ﷺ said: “If people were given according to their claims, men would claim the wealth and the blood of others. But the burden of proof is on the claimant, and the oath is on the one who denies.”",
+      "takhrij": "A hasan hadith, narrated by al-Bayhaqi and others in this way; part of it is in the two Sahihs."
+    },
+    "34": {
+      "text": "On the authority of Abu Sa'id al-Khudri (RA), who said: I heard the Messenger of Allah ﷺ say: “Whoever of you sees an evil, let him change it with his hand; if he is not able, then with his tongue; and if he is not able, then with his heart, and that is the weakest of faith.”",
+      "takhrij": "Narrated by Muslim."
+    },
+    "35": {
+      "text": "On the authority of Abu Hurayrah (RA), who said: The Messenger of Allah ﷺ said: “Do not envy one another, do not inflate prices against one another, do not hate one another, do not turn your backs on one another, and do not undercut one another in trade; but be, O servants of Allah, brothers. A Muslim is the brother of a Muslim: he does not wrong him, nor forsake him, nor lie to him, nor look down on him. Piety is here” — and he pointed to his chest three times. “It is evil enough for a person to look down on his Muslim brother. All of a Muslim is sacred to another Muslim: his blood, his wealth and his honour.”",
+      "takhrij": "Narrated by Muslim."
+    },
+    "36": {
+      "text": "On the authority of Abu Hurayrah (RA), from the Prophet ﷺ, who said: “Whoever relieves a believer of a distress of the distresses of this world, Allah will relieve him of a distress of the distresses of the Day of Resurrection. Whoever eases things for one in difficulty, Allah will ease things for him in this world and the Hereafter. Whoever covers [the faults of] a Muslim, Allah will cover him in this world and the Hereafter. Allah helps the servant as long as the servant helps his brother. Whoever follows a path seeking knowledge, Allah will make easy for him thereby a path to Paradise. No people gather in one of the houses of Allah, reciting the Book of Allah and studying it among themselves, but tranquillity descends upon them, mercy covers them, the angels surround them, and Allah mentions them among those who are with Him. And whoever is slowed down by his deeds will not be hastened forward by his lineage.”",
+      "takhrij": "Narrated by Muslim in these words."
+    },
+    "37": {
+      "text": "On the authority of Ibn 'Abbas (RA), from the Messenger of Allah ﷺ, in what he narrates from his Lord, Blessed and Exalted, who said: “Allah has written down the good deeds and the bad deeds, then made it clear: whoever intends a good deed and does not do it, Allah writes it with Him as a complete good deed; and if he intends it and does it, Allah writes it with Him as ten good deeds, up to seven hundred times, up to many times more. And whoever intends a bad deed and does not do it, Allah writes it with Him as a complete good deed; and if he intends it and does it, Allah writes it as a single bad deed.”",
+      "takhrij": "Narrated by al-Bukhari and Muslim in their two Sahihs in these words. So look, my brother, may Allah grant us and you success, at the immense kindness of Allah the Exalted, and reflect on these words. His saying “with Him” points to the care given to it; “complete” is for emphasis and the strength of that care. Of the bad deed that one intends and then leaves, He said Allah writes it with Him as a complete good deed, emphasising it with “complete”; and if he does it, He writes it as a single bad deed, emphasising its smallness with “single” and not emphasising it with “complete”. So to Allah belong praise and favour; glory be to Him, we cannot count His praise. And success is from Allah."
+    },
+    "38": {
+      "text": "On the authority of Abu Hurayrah (RA), who said: The Messenger of Allah ﷺ said: “Allah the Exalted said: Whoever shows enmity to an ally (wali) of Mine, I declare war against him. My servant does not draw near to Me with anything more beloved to Me than what I have made obligatory upon him, and My servant keeps drawing near to Me with voluntary deeds until I love him. When I love him, I am his hearing with which he hears, his sight with which he sees, his hand with which he strikes, and his foot with which he walks. If he asks Me, I will surely give him; and if he seeks refuge in Me, I will surely grant him refuge.”",
+      "takhrij": "Narrated by al-Bukhari.",
+      "footnote": "Scholars explain this as Allah guiding and guarding his hearing, sight, hands and feet, so that he uses them only in what pleases Him."
+    },
+    "39": {
+      "text": "On the authority of Ibn 'Abbas (RA): The Messenger of Allah ﷺ said: “Allah has pardoned, for my sake, my nation's mistakes, forgetfulness, and what they are forced to do.”",
+      "takhrij": "A hasan hadith, narrated by Ibn Majah, al-Bayhaqi and others."
+    },
+    "40": {
+      "text": "On the authority of Ibn 'Umar (RA), who said: The Messenger of Allah ﷺ took hold of my shoulder and said: “Be in this world as though you were a stranger or a traveller passing through.”",
+      "takhrij": "And Ibn 'Umar (RA) used to say: “When evening comes, do not wait for the morning; and when morning comes, do not wait for the evening. Take from your health for your illness, and from your life for your death.” Narrated by al-Bukhari."
+    },
+    "41": {
+      "text": "On the authority of Abu Muhammad 'Abdullah ibn 'Amr ibn al-'As (RA), who said: The Messenger of Allah ﷺ said: “None of you [truly] believes until his desires follow what I have brought.”",
+      "takhrij": "A hasan sahih hadith; we have narrated it in Kitab al-Hujjah with a sound chain."
+    },
+    "42": {
+      "text": "On the authority of Anas (RA), who said: I heard the Messenger of Allah ﷺ say: “Allah the Exalted said: O son of Adam, as long as you call upon Me and hope in Me, I will forgive you for what you have done, and I do not mind. O son of Adam, if your sins were to reach the clouds of the sky and then you asked My forgiveness, I would forgive you. O son of Adam, if you came to Me with sins nearly as great as the earth and then met Me without associating anything with Me, I would come to you with forgiveness nearly as great.”",
+      "takhrij": "Narrated by al-Tirmidhi, who said: a hasan sahih hadith."
+    }
+  },
+  "reviewed": "2026-11-13: reviewer sheet applied provisionally (14 English edits, 31 Arabic corrections in data/content/errata.json, footnotes from the cited commentaries). Still a draft until signed off. Owner decisions 2026-11-13: other narration noted for 208 (evening); gradings kept as the source states them; attributions shown apart. English approved as the base for the other languages."
+}
